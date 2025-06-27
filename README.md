@@ -21,6 +21,7 @@ npm install
 npm install discord.js
 ```
 
+- Sonra botConfig.json daki bilgileri doldur
 
 <br> </br>
 <br> </br>
